@@ -11,7 +11,7 @@ I’m a Computer Science graduate and Full Stack Developer specializing in (Angu
 ## My favorite tools and technologies ⚙️
 <h3>Programming Languages :</h3>
 
-[![Programming languages](https://skillicons.dev/icons?i=java,python,php,js,ts)](https://skillicons.dev)
+[![Programming languages](https://skillicons.dev/icons?i=java,python,js,ts)](https://skillicons.dev)
 
 <h3>Frameworks & Technologies :</h3>
 
