@@ -1,51 +1,95 @@
-### Hi 👋, I'm Ala from Tunisia.
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-I’m a Computer Science graduate and Full Stack Developer specializing in (Angular, Spring), excelling in developing dynamic web applications and modern platforms.
+<h1 align="center">Hi 👋, I'm Ala Aydi</h1>
 
-**Connect with me:**
+<div align="center">
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-%230175C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aydi-ala/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aydi__ala/)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:contact.aydiala@gmail.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full-Stack+Angular+%26+Spring+Developer;Computer+Science+Graduate+from+Tunisia+🇹🇳;Building+Modern+Web+Applications;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
-## My favorite tools and technologies ⚙️
-<h3>Programming Languages :</h3>
-
-[![Programming languages](https://skillicons.dev/icons?i=java,python,js,ts)](https://skillicons.dev)
-
-<h3>Frameworks & Technologies :</h3>
-
-[![Frameworks & technologies](https://skillicons.dev/icons?i=spring,nodejs,angular,react)](https://skillicons.dev)
-
-<h3>Web Development :</h3>
-
-[![WebDev](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind)](https://skillicons.dev)
-
-<h3>DevOps and Tools :</h3>
-
-[![WebDev](https://skillicons.dev/icons?i=nginx,github,docker,swagger)](https://skillicons.dev)
-
-<h3>Database and API Testing :</h3>
-
-[![WebDev](https://skillicons.dev/icons?i=mysql,postman)](https://skillicons.dev)
-
-<h3>Operating Systems :</h3>
-
-[![WebDev](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
-
-<h3>Design Tools :</h3>
-
-[![WebDev](https://skillicons.dev/icons?i=figma,ps,p)](https://skillicons.dev)
-
-
-
-
-
-
-
-## GitHub Profile Trophy 🏆
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ferjaboss&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 </div>
+
+---
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+<br>
+
+- 🎓 Computer Science Graduate  
+- 💻 Full Stack Developer (Angular & Spring Boot)  
+- 🚀 Passionate about building scalable and dynamic web applications  
+- 💬 Ask me about **Angular, Spring Boot, Node.js, Docker, Swagger**  
+- 📫 How to reach me: **contact.aydiala@gmail.com**  
+- ⚡ Fun fact: I turn coffee ☕ into clean and powerful code 💻  
+
+---
+
+## 🌐 Connect with me:
+
+<p align="left">
+<a href="https://www.linkedin.com/in/aydi-ala/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://github.com/AlaAydi" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/aydi__ala/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools:
+
+<p align="left">
+
+<a href="https://angular.io" target="_blank">
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/>
+</a>
+
+<a href="https://spring.io/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
+</a>
+
+<a href="https://nodejs.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://postman.com" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+</a>
+
+<a href="https://swagger.io/" target="_blank">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9GlozyrEsA25S68xqsWEgejZkSQPi2L7SBw&s" width="40" height="40"/>
+</a>
+
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaAydi&layout=compact&theme=radical" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlaAydi&show_icons=true&theme=radical" width="40%" />
+</p>
+
+---
+
+<img src="https://raw.githubusercontent.com/Azerbenazzouz/Azerbenazzouz/output/snake.svg" alt="Snake animation" />
