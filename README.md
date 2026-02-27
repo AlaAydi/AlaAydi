@@ -85,11 +85,12 @@
 
 ## 📊 GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaAydi&layout=compact&theme=radical" width="40%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AlaAydi&show_icons=true&theme=radical" width="40%" />
-</p>
+## 📊 GitHub Analytics
 
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlaAydi&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaAydi&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+</p>
 ---
 
 <img src="https://raw.githubusercontent.com/Azerbenazzouz/Azerbenazzouz/output/snake.svg" alt="Snake animation" />
