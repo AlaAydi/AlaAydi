@@ -6,11 +6,7 @@
 
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<p align="center">
-<img alt="Tunisia flag" height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/800px-Flag_of_Tunisia.svg.png"/>
-</p>
 
 <div align="center">
 
@@ -62,20 +58,6 @@
 
 
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AlaAydi&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="165" alt="stats graph"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaAydi&locale=en&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="165" alt="languages graph"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.demolab.com?user=AlaAydi&theme=dracula&hide_border=false" width="65%" alt="streak stats"/>
-
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🏆 Trophées
 
