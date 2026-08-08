@@ -32,7 +32,6 @@ ala_aydi:
   focus:
     - "Développement Full Stack"
     - "Angular & Spring Boot"
-    - "React & MERN Stack"
   fun_fact: "Je transforme le café ☕ en code propre 💻"
   currently_learning: "Toujours quelque chose de nouveau 📚"
   reach_me: "contact.aydiala@gmail.com"
