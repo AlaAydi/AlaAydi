@@ -95,21 +95,7 @@ ala_aydi:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🚀 Projet phare
 
-<div align="center">
-
-<a href="https://github.com/AlaAydi/LMS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlaAydi&repo=LMS&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/MERN_Stack-LMS_Platform-1F6FEB?style=for-the-badge&logo=react&logoColor=white"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 💬 Citation du jour
 
@@ -138,8 +124,5 @@ ala_aydi:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:8E2DE2,100:1F6FEB&height=180&section=footer&animation=fadeIn"/>
 
-<div align="center">
-<i>💬 "Le code, c'est de la poésie qui s'exécute." — Merci de ta visite, à bientôt ! ⭐</i>
-</div>
+
