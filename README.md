@@ -4,7 +4,7 @@
 
 <img src="https://i.pinimg.com/originals/7b/e4/59/7be459e56f8c69754df4830fb2b92df6.gif" width="90"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=700&color=1F6FEB&center=true&vCenter=true&multiline=true&width=650&height=90&lines=%F0%9F%91%8B+Ahla+bik%2C+je+suis+Ala+Aydi;%F0%9F%8E%93+%C3%89tudiant+en+cycle+ing%C3%A9nieur+informatique;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%9A%80+Angular+%2B+Spring+Boot+%7C+MERN;%F0%9F%94%A5+Toujours+en+train+d%27apprendre" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=700&color=1F6FEB&center=true&vCenter=true&multiline=true&width=850&height=180&lines=%F0%9F%91%8B+Ahla+bik%2C+je+suis+Ala+Aydi;%F0%9F%8E%93+%C3%89tudiant+en+cycle+ing%C3%A9nieur+informatique;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%9A%80+Angular+%2B+Spring+Boot+%7C;%F0%9F%94%A5+Toujours+en+train+d%27apprendre" alt="Typing SVG"/>
 
 <br/>
 
@@ -28,7 +28,10 @@
 ```yaml
 ala_aydi:
   role: "Étudiant Ingénieur en Informatique 🇹🇳"
+
   location: "Ariana, Tunisie"
+
+
   focus:
     - "Développement Full Stack"
     - "Angular & Spring Boot"
