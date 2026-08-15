@@ -10,7 +10,6 @@
 
 <img src="https://img.shields.io/badge/📍_Ariana,_Tunisie-1F6FEB?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/✉️_contact.aydiala@gmail.com-8E2DE2?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/📱_+216_27_983_973-1F6FEB?style=for-the-badge&logoColor=white"/>
 
 <br/><br/>
 
